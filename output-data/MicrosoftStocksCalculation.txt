@@ -1,0 +1,19 @@
+********************
+Closing Data: 
+ Mean: $288.28 
+ Median: $287.15 
+ Variance: $1303.3240073747895 
+ Standard Deviation: $36.101579014979244 
+********************
+Highs Data: 
+ Mean: $91.66 
+ Median: $88.43 
+ Variance: $208.78145933333778 
+ Standard Deviation: $14.449271930908415 
+********************
+Lows Data: 
+ Mean: $90.11 
+ Median: $86.8149 
+ Variance: $201.65692695308493 
+ Standard Deviation: $14.200596006966924 
+********************
